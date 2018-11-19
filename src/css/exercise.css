@@ -5,7 +5,7 @@ https://medium.com/@_bengarrison/accessing-and-modifying-css-variables-with-java
 :root {
   --footer-color: #2cba92;
   /* @reasonCode green */
-  --palatte-padding-left: 0px
+  --palatte-padding-left: 0;
 }
 
 footer {
@@ -21,5 +21,5 @@ footer {
 ### Additional styling ###
 ======================= */
 body {
-  padding: 1rem;
+  padding: 20px;
 }
